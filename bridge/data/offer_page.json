@@ -1,0 +1,37 @@
+[
+    {
+        "backgroundPongalImage1":"",
+        "backgroundPongalImage2":"",
+        "title":"An Exclusive Pongal Gift for You",
+        "subtitle":"Grab this exclusive offer <b>ONLY<b/> for you at <b>70%</b> OFF",
+        "description":"Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "subscription":"true",
+        "summary":{
+            "title":"Here are some of the benefits of your offer",
+            "content":[
+                {
+                    "image":"",
+                    "title":"Hearings",
+                    "description":"Get notification of your court items such as case number, item & room number on the go in just a click."
+                },
+                {
+                    "image":"",
+                    "title":"Judgements",
+                    "description":"Access 1.5 million judgments with headnotes and short notes." 
+                },
+                {
+                    "image":"",
+                    "title":"Manage your Clients",
+                    "description":"You can now manage your clients more efficiently by sending invoices and regularly get paid for all hearings." 
+                }
+            ]
+
+
+
+        }
+        
+      }
+
+
+
+]
